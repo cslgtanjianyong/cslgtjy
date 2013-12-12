@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/OpenCNC/!svn/ver/56017/ICTProject/SyntecITBase/trunk/Syntec.Database.Model
+END
+DefaultDataModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/OpenCNC/!svn/ver/56017/ICTProject/SyntecITBase/trunk/Syntec.Database.Model/DefaultDataModel.cs
+END
+Syntec.Database.Model.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/OpenCNC/!svn/ver/56017/ICTProject/SyntecITBase/trunk/Syntec.Database.Model/Syntec.Database.Model.csproj.user
+END
+ModelHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/OpenCNC/!svn/ver/56017/ICTProject/SyntecITBase/trunk/Syntec.Database.Model/ModelHelper.cs
+END
+Syntec.Database.Model.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/OpenCNC/!svn/ver/56017/ICTProject/SyntecITBase/trunk/Syntec.Database.Model/Syntec.Database.Model.csproj
+END
+IDataModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/OpenCNC/!svn/ver/56017/ICTProject/SyntecITBase/trunk/Syntec.Database.Model/IDataModel.cs
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM
+END
+RMADetailDataAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMADetailDataAccess.cs
+END
+RMAAbstractDataAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMAAbstractDataAccess.cs
+END
+MappingTableDataAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/MappingTableDataAccess.cs
+END
+ShippingDetailWithProductTree.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/ShippingDetailWithProductTree.cs
+END
+ProductType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/ProductType.cs
+END
+PartBreakReason.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/PartBreakReason.cs
+END
+CustomCriteriaConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/CustomCriteriaConfig.cs
+END
+RMADutyUnit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMADutyUnit.cs
+END
+RMAQuarterReasonRankSummary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMAQuarterReasonRankSummary.cs
+END
+ProductDb.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/ProductDb.cs
+END
+Syntec.DataAccess.TQM.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/Syntec.DataAccess.TQM.csproj
+END
+ShippingDataAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/ShippingDataAccess.cs
+END
+PartBreakStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/PartBreakStrategy.cs
+END
+system.ini
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/system.ini
+END
+HisMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/HisMaster.cs
+END
+Customer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/Customer.cs
+END
+RMAQuarterSummary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMAQuarterSummary.cs
+END
+RMAFixFileMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMAFixFileMaster.cs
+END
+RMACallMasterDataAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMACallMasterDataAccess.cs
+END
+RMAQuarterPartRankSummary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMAQuarterPartRankSummary.cs
+END
+RMAGeneralRankDataAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMAGeneralRankDataAccess.cs
+END
+MachineType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/MachineType.cs
+END
+RMADefectRatioSummary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/RMADefectRatioSummary.cs
+END
+Syntec.DataAccess.TQM.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/Syntec.DataAccess.TQM.csproj.user
+END
+ProductMasterDataAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/ProductMasterDataAccess.cs
+END
+PartType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/PartType.cs
+END
+DataConvert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.DataAccess.TQM/DataConvert.cs
+END

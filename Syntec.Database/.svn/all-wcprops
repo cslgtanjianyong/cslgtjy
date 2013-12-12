@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/OpenCNC/!svn/ver/67611/ICTProject/SyntecITBase/trunk/Syntec.Database
+END
+IDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/OpenCNC/!svn/ver/67611/ICTProject/SyntecITBase/trunk/Syntec.Database/IDatabase.cs
+END
+Syntec.Database.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/OpenCNC/!svn/ver/67611/ICTProject/SyntecITBase/trunk/Syntec.Database/Syntec.Database.csproj
+END
+MSSqlDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/OpenCNC/!svn/ver/61416/ICTProject/SyntecITBase/trunk/Syntec.Database/MSSqlDatabase.cs
+END
+AbstractDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/OpenCNC/!svn/ver/67611/ICTProject/SyntecITBase/trunk/Syntec.Database/AbstractDatabase.cs
+END
+PostgreSqlDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/OpenCNC/!svn/ver/67611/ICTProject/SyntecITBase/trunk/Syntec.Database/PostgreSqlDatabase.cs
+END

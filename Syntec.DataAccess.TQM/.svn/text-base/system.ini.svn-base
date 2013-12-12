@@ -1,0 +1,9 @@
+Host=crm.syntecclub.com.tw,29
+Database=SyntecBarCode
+Username=sunsa
+Password=syntec0318
+
+#Host=10.10.1.253,29
+#Database=SyntecBarCode
+#Username=rptguest
+#Password=rptguest
