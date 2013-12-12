@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Winform_ExcelWarning">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Winform_ExcelWarning.sln">
+</Property><Property Name="Date" Value="2013年12月6日">
+</Property><Property Name="Time" Value="11:51:53">
+</Property><Property Name="日志号" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup3\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup3\DAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup3\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\ExcelRule.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup3\ExcelRule.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Log.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup3\Log.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Winform_ExcelWarning">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Winform_ExcelWarning.sln">
+</Property><Property Name="Date" Value="2013年12月6日">
+</Property><Property Name="Time" Value="8:56">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Winform_ExcelWarning" Source="Winform_ExcelWarning\Winform_ExcelWarning.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Winform_ExcelWarning" Source="Winform_ExcelWarning\Winform_ExcelWarning.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\..\修改完成\CodematicDemo\BLL\BLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BLL" Source="..\..\修改完成\CodematicDemo\BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\..\修改完成\CodematicDemo\DAL\DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DAL" Source="..\..\修改完成\CodematicDemo\DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\..\修改完成\CodematicDemo\DBUtility\DBUtility.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="..\..\修改完成\CodematicDemo\DBUtility\DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\..\修改完成\CodematicDemo\Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="..\..\修改完成\CodematicDemo\Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Winform_ExcelWarning.sln" Description="解决方案文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="" Source="Winform_ExcelWarning.sln" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\..\修改完成\CodematicDemo\BLL\BLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\..\修改完成\CodematicDemo\DAL\DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\..\修改完成\CodematicDemo\DBUtility\DBUtility.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\..\修改完成\CodematicDemo\Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

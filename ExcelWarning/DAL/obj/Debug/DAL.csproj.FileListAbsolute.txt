@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\syntec.DAL.dll
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\syntec.DAL.pdb
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\Maticsoft.Common.dll
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\syntec.DBUtility.dll
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\syntec.Model.dll
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\syntec.Model.pdb
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\bin\Debug\syntec.DBUtility.pdb
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\obj\Debug\syntec.DAL.dll
+C:\Users\Administrator\Desktop\ExcelWarning\DAL\obj\Debug\syntec.DAL.pdb

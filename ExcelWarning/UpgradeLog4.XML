@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Winform_ExcelWarning">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Winform_ExcelWarning.sln">
+</Property><Property Name="Date" Value="2013年12月6日">
+</Property><Property Name="Time" Value="11:51:45">
+</Property><Property Name="日志号" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DBUtility.csproj">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DBUtility.csproj.user">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQLite.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DbHelperSQLite.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\CommandInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\CommandInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperMySQL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DbHelperMySQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperOleDb.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DbHelperOleDb.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperOra.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DbHelperOra.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DbHelperSQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DESEncrypt.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DESEncrypt.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\OracleHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\OracleHelper.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\PubConstant.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\PubConstant.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\SQLHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\SQLHelper.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQLP.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\ExcelWarning\Winform_ExcelWarning\Backup2\DbHelperSQLP.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

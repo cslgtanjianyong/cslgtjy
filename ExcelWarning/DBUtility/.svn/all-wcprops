@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility
+END
+DbHelperMySQL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DbHelperMySQL.cs
+END
+BaseSqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/BaseSqlMapDao.cs
+END
+DESEncrypt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DESEncrypt.cs
+END
+DBUtility.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DBUtility.csproj.user
+END
+DbHelperSQLP.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DbHelperSQLP.cs
+END
+DbHelperSQL2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DbHelperSQL2.cs
+END
+DbHelperOra.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DbHelperOra.cs
+END
+CommandInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/CommandInfo.cs
+END
+DbHelperOleDb.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DbHelperOleDb.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/AssemblyInfo.cs
+END
+CodematicDemo.suo
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/CodematicDemo.suo
+END
+SQLHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/SQLHelper.cs
+END
+PubConstant.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/PubConstant.cs
+END
+DBUtility.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DBUtility.csproj
+END
+OracleHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/OracleHelper.cs
+END
+DbHelperSQL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DbHelperSQL.cs
+END
+DbHelperSQLite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/OpenCNC/!svn/ver/67657/ICTProject/SyntecReport/branch/ExcelWarning/DBUtility/DbHelperSQLite.cs
+END

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\ExcelWarning\Model\bin\Debug\syntec.Model.dll
+C:\Users\Administrator\Desktop\ExcelWarning\Model\bin\Debug\syntec.Model.pdb
+C:\Users\Administrator\Desktop\ExcelWarning\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ExcelWarning\Model\obj\Debug\syntec.Model.dll
+C:\Users\Administrator\Desktop\ExcelWarning\Model\obj\Debug\syntec.Model.pdb
